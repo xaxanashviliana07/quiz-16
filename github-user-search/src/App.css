@@ -1,0 +1,57 @@
+body{
+  background-color: aliceblue;
+}
+
+.container {
+  margin-left: 30%;
+  margin-top: 100px;
+}
+
+.search-container {
+  width: 500px;
+  height: 70px;
+  background-color: white;
+  border-radius: 20px;
+  display: flex;
+}
+
+.input {
+  width: 300px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.search-icon {
+  width: 30px;
+  height: 30px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.search-btn {
+  width: 100px;
+  height: 45px;
+  margin-top: 10px;
+  margin-left: 15px;
+  background-color: blue;
+  border: none;
+  color: white;
+  border-radius: 15px;
+}
+
+.avatar-img {
+  width: 100px;
+  border-radius: 50%;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.user-container {
+  display: flex;
+  gap: 50px;
+  background-color: white;
+  width: 500px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
